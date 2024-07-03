@@ -1,2 +1,0 @@
-estos son archivos de la rama nueva 
-no existen en la rama main
